@@ -9,4 +9,4 @@ class Solution:
         
 res = Solution()
 
-print(res.isUgly(32))
+print(res.isUgly(311))
